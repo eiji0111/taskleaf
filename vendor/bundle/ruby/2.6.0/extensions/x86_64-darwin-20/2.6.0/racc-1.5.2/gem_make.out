@@ -1,0 +1,16 @@
+current directory: /Users/morieiji/Desktop/practice/taskleaf/taskleaf/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+/Users/morieiji/.rbenv/versions/2.6.3/bin/ruby -I /Users/morieiji/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210804-27423-1nsi6t4.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/morieiji/Desktop/practice/taskleaf/taskleaf/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/morieiji/Desktop/practice/taskleaf/taskleaf/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/morieiji/Desktop/practice/taskleaf/taskleaf/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210804-27423-1u49du7/racc

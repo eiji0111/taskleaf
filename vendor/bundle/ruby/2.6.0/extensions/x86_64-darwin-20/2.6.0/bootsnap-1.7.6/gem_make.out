@@ -1,0 +1,15 @@
+current directory: /Users/morieiji/Desktop/practice/taskleaf/taskleaf/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.6/ext/bootsnap
+/Users/morieiji/.rbenv/versions/2.6.3/bin/ruby -I /Users/morieiji/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210804-27423-18gh4d2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/morieiji/Desktop/practice/taskleaf/taskleaf/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/morieiji/Desktop/practice/taskleaf/taskleaf/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/morieiji/Desktop/practice/taskleaf/taskleaf/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210804-27423-8yg43d/bootsnap
