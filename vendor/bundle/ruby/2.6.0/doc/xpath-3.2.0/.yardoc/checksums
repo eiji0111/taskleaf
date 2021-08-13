@@ -1,0 +1,7 @@
+lib/xpath.rb 9041461afd86c067062374eef490aff71403a43d
+lib/xpath/dsl.rb debdaba88197cc24fd0bb0107ed38137b594a66e
+lib/xpath/union.rb 6ce2ef8ceb731671188627d88978d1e1c4215de4
+lib/xpath/literal.rb 22144f67ce1c789062cee12dc39ef07cfb8e7160
+lib/xpath/version.rb b341378eeac2fba1ddc8afe01ec943fa57994af2
+lib/xpath/renderer.rb fa8a88dd29ad5b72349022acb3632b0d1c37ac65
+lib/xpath/expression.rb 3e715615b5d54359f5e1ace35d0088141058edbb

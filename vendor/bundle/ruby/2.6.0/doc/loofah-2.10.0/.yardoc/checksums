@@ -1,0 +1,15 @@
+lib/loofah.rb a4451448ea40bdf3dc920cd572ac1cfcf9cf3d9c
+lib/loofah/helpers.rb 041ed11fa9c5034d216ba3fe4448348957c18b0e
+lib/loofah/version.rb 7bb59f446768f25066347ee9678040bf6027cd1d
+lib/loofah/elements.rb aa848ec05413b768acb52d4edd657ee5161cd55e
+lib/loofah/scrubber.rb 3a51838a111285a9193622bd0ab9cf43a81f5780
+lib/loofah/scrubbers.rb e114a1a5978071a82b71aebdf2c39c556d11381f
+lib/loofah/html5/scrub.rb 5edaf1b9e45c8efb1642ae2a91a0dff9935a6e72
+lib/loofah/metahelpers.rb e5299c7909da58dd09c07c40d9f6f819fdb6a504
+lib/loofah/xml/document.rb e03251486a98e55241fe6430eaa32a53857f21b4
+lib/loofah/html/document.rb 65b034d1ccbe1b347771539eee348bcdc9f843f0
+lib/loofah/html5/safelist.rb 526d7a8d7b83292c6f4d13e435f229d922800851
+lib/loofah/instance_methods.rb 1b8b784e7167b1bf85466780005291a682268474
+lib/loofah/xml/document_fragment.rb 22226fb1ee8eda69e13f28cefe42d5725faadf15
+lib/loofah/html/document_fragment.rb b26332508ad56b2db8f2793fb6392031c84454fd
+lib/loofah/html5/libxml2_workarounds.rb bf92bd567dd5809b3d5eb6bdec0df49a617310fb

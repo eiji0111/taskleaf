@@ -1,0 +1,13 @@
+lib/sassc-rails.rb a8d78d54e261b438b10a595c1164b577cba2420b
+lib/sassc/rails.rb cc2f662d4ff4e2fcafeb399130c04661b55ce1dc
+lib/sassc/rails/railtie.rb 9192467ab6a9f5f5a944d787cc17048f824b94fa
+lib/sassc/rails/version.rb ecbc3e7bb5f8943a8a6847121a499e1715ff2491
+lib/sassc/rails/importer.rb 9a529e96a3b4034b43856aefc27e271b17c77bac
+lib/sassc/rails/template.rb c810d89f805a89f8e6d9c33e54697a020eb4d9b8
+lib/sassc/rails/functions.rb f7fd02b1b59d8c303b740b5d0a986646e7f77bd3
+lib/sassc/rails/compressor.rb c2a3441312541afe17b9484b8faeeb398d9fd780
+lib/rails/generators/sass_scaffold.rb da456716b22e304304f487f4e936a4a92a7beb16
+lib/rails/generators/sass/assets/assets_generator.rb eed1b0919decfedbd85835b1ddec16965dff7112
+lib/rails/generators/scss/assets/assets_generator.rb 7a58fdad5f1191068183e2312fd2bc9b6c1aa266
+lib/rails/generators/sass/scaffold/scaffold_generator.rb 53adfabd5aa86cd6e0c150873be5894398336523
+lib/rails/generators/scss/scaffold/scaffold_generator.rb d8bd79faf6257208d298b847ddbe582294714341

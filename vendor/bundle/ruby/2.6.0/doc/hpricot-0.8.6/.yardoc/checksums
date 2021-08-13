@@ -1,0 +1,34 @@
+lib/hpricot.rb 29b341a087bb40aa359dde7be76eaa4ac4dd6fc7
+lib/hpricot 2.rb 29b341a087bb40aa359dde7be76eaa4ac4dd6fc7
+lib/hpricot/tag.rb c3e129653db63ad29ff88021229f68f593a1b151
+lib/hpricot/tags.rb f119dc9793b5711ef7323bf74b032fd020c0a305
+lib/hpricot/parse.rb 24e4418066f93d72fd150bb310ecd7800f50fca7
+lib/hpricot/tag 2.rb c3e129653db63ad29ff88021229f68f593a1b151
+lib/hpricot/xchar.rb 76c502d54d23b11bb2a04247e06dc77c57b23ced
+lib/hpricot/tags 2.rb f119dc9793b5711ef7323bf74b032fd020c0a305
+lib/hpricot/builder.rb 307e23a32891a69b422f904437d5fb38836ba80a
+lib/hpricot/inspect.rb 879fe9af72d5760b4ce91a3a8633122cb9ab804b
+lib/hpricot/modules.rb 4a7040eb32fecaf62db0c9e4c94835379f922e3f
+lib/hpricot/parse 2.rb 24e4418066f93d72fd150bb310ecd7800f50fca7
+lib/hpricot/xchar 2.rb 76c502d54d23b11bb2a04247e06dc77c57b23ced
+lib/hpricot/elements.rb 56d770515e87c5cf1e98f10649e0fd2ed87a94b1
+lib/hpricot/htmlinfo.rb 516fdd128a51246380b76e523cad516c3c198512
+lib/hpricot/traverse.rb 1b0295f1b3b38b56f77320fea020846d13c11a08
+lib/hpricot/builder 2.rb 307e23a32891a69b422f904437d5fb38836ba80a
+lib/hpricot/inspect 2.rb 879fe9af72d5760b4ce91a3a8633122cb9ab804b
+lib/hpricot/modules 2.rb 4a7040eb32fecaf62db0c9e4c94835379f922e3f
+lib/hpricot/blankslate.rb 6fdd4597db75d7004c059c740029a541ff536c37
+lib/hpricot/elements 2.rb 56d770515e87c5cf1e98f10649e0fd2ed87a94b1
+lib/hpricot/htmlinfo 2.rb 516fdd128a51246380b76e523cad516c3c198512
+lib/hpricot/traverse 2.rb 1b0295f1b3b38b56f77320fea020846d13c11a08
+lib/hpricot/blankslate 2.rb 6fdd4597db75d7004c059c740029a541ff536c37
+ext/fast_xs/fast_xs.c 3bdc15a37c9e3ab8d7528166d07d489c264476a8
+ext/fast_xs/extconf.rb 3db36340e3eb4f1ebd5aa9263bfaea9db466ed29
+ext/fast_xs/fast_xs 2.c 3bdc15a37c9e3ab8d7528166d07d489c264476a8
+ext/fast_xs/extconf 2.rb 3db36340e3eb4f1ebd5aa9263bfaea9db466ed29
+ext/hpricot_scan/extconf.rb 41aa51fc90d4f54709b24d0d46d8e18b3ccea8d2
+ext/hpricot_scan/extconf 2.rb 41aa51fc90d4f54709b24d0d46d8e18b3ccea8d2
+ext/hpricot_scan/hpricot_css.c 4a23a07b25190a9811eb84e0ccaeceab7233c960
+ext/hpricot_scan/hpricot_scan.c f8d93dd666c7cda711a3952f9e241e92597ee39c
+ext/hpricot_scan/hpricot_css 2.c 4a23a07b25190a9811eb84e0ccaeceab7233c960
+ext/hpricot_scan/hpricot_scan 2.c f8d93dd666c7cda711a3952f9e241e92597ee39c

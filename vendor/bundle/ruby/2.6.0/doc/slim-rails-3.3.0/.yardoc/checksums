@@ -1,0 +1,6 @@
+lib/slim-rails.rb 23b2a08b4e8a6803064bbcfa8cf654f7d8b5e6a6
+lib/slim-rails/version.rb bebc2cba13ead43095e64b9209843406703ccf0a
+lib/slim-rails/register_engine.rb 30a9b879296cae49e7f101006c8a06dd03851e4a
+lib/generators/slim/mailer/mailer_generator.rb 36b9eb03ee3a85dd51ea763e95fb0cf368dd3765
+lib/generators/slim/scaffold/scaffold_generator.rb 7b54ee553453958161db165615bc2b11783406fb
+lib/generators/slim/controller/controller_generator.rb 5c92129878dc1005d315d0abc2ed50e0c30370b4

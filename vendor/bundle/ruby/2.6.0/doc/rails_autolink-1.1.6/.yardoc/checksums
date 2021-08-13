@@ -1,0 +1,3 @@
+lib/rails_autolink.rb c146e44563a6d22d78dae2a27048bf98c0b4ba12
+lib/rails_autolink/helpers.rb 9207f255b037147731a43a7f371d1740aeb28737
+lib/rails_autolink/version.rb cd2643b18481700e079ebbdede912152ebdf56e1

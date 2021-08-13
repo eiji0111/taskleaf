@@ -1,0 +1,4 @@
+lib/method_source.rb 5bf34ccda6cd81dd6c1404fc5e1dd7e167d0330e
+lib/method_source/version.rb d30cc34d1fe588bdc45fea7d4a56f9b955917a0b
+lib/method_source/code_helpers.rb 0ab63debabddbf8ebe993ec81784232d45171f91
+lib/method_source/source_location.rb 2c16932e44e59b5d2861b733c99011dce564beb1

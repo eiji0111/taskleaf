@@ -1,0 +1,11 @@
+lib/rb-fsevent.rb 7afc54524af2fc09627c3838ee298ca41527fa43
+lib/otnetstring.rb 2318f719174682aa8e517851940b94f985805ef7
+lib/rb-fsevent/fsevent.rb 531e5743eadeed5ac8ab2dd9394e604f4d26de54
+lib/rb-fsevent/version.rb e9de5874c9187bf34e55adc1ad279d92b33b205a
+ext/rakefile.rb 48ca2fdb0aa40ebdf49f4da80de403284c489e29
+ext/fsevent_watch/cli.c 0813a16896c5a274b75cc72e0cc8b57f4c82d0fe
+ext/fsevent_watch/main.c 4872bc5b83bdffb685f5ee076250cec0bded8e50
+ext/fsevent_watch/compat.c 2277e19f41849b38a9494e85ecc74298441f5aa6
+ext/fsevent_watch/FSEventsFix.c 1d0b3185f9dac71bfd4b6d6a419150e8e5dd86e1
+ext/fsevent_watch/TSICTString.c a683f9b275eb827756d60961713858d72a1e5910
+ext/fsevent_watch/signal_handlers.c 8ff8b2686d62a501459ba31a8d6005ad22c1c082

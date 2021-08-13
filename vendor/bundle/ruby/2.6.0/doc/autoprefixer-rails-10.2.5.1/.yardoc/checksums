@@ -1,0 +1,7 @@
+lib/autoprefixer-rails.rb 684730fe4050daab176e9c3473a714bc96c0be18
+lib/rake/autoprefixer_tasks.rb 1deccdb126a4cbbb5cb9fe681bcff53f31efc19c
+lib/autoprefixer-rails/result.rb 3501878a24a202f2558c387316e0babf2de401dc
+lib/autoprefixer-rails/railtie.rb 484fe8215b646dcdc9358fb7172232dcb3850a21
+lib/autoprefixer-rails/version.rb 39f3c5befb4b12c078dcc6f099ca41055da3eabd
+lib/autoprefixer-rails/processor.rb ebe48d3dae1514244eef62f23dbdd48a12111e53
+lib/autoprefixer-rails/sprockets.rb dc274490d23e3acc8d25214156ad28291974f53f

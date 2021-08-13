@@ -1,0 +1,10 @@
+lib/bcrypt.rb 444cc737f0104c8b805c618927a5dac99ea13be5
+lib/bcrypt/error.rb 1b6c0362038276af300600d9ee160b10f56b62e4
+lib/bcrypt/engine.rb d23227d1474505dd33089a73644e8a263b3dbd71
+lib/bcrypt/password.rb b7130f6a6882101c1730a53688faf788390d06f7
+ext/mri/crypt.c 4d96e63183a13e3d2475c2c71dc43e066e917633
+ext/mri/wrapper.c 389e92a820bff7a1cac0f356f2d73d9d85408998
+ext/mri/extconf.rb 89efaa7fc59e38d46853079c39d68e1fe7b7fe38
+ext/mri/bcrypt_ext.c 5eed3b38d69a5c29cf3eef05acfc77b950398148
+ext/mri/crypt_gensalt.c c7a5c888ad791d53993fc86ae7e8c949442b7777
+ext/mri/crypt_blowfish.c fc6ba757cf78b629bde40ff0b3c544d7af7909d5

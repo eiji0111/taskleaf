@@ -1,0 +1,5 @@
+lib/semantic_range.rb 7141f8bd3be31e8cae9faf5820d3027d84b4d654
+lib/semantic_range/range.rb 9e21538782a36e2fe31ca01a231231b0942fad2d
+lib/semantic_range/version.rb dbedee1274e50fafc04db25a8a2bcfcf5e16b7c4
+lib/semantic_range/comparator.rb dabfadbd8fdd61d43506dc19494b7994130967c2
+lib/semantic_range/pre_release.rb 3c2ae0f4d2bf9e99ae772cd49c7374a711e2b279

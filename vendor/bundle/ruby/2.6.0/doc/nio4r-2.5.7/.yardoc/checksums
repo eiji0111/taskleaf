@@ -1,0 +1,37 @@
+lib/nio.rb 372c1c69e6fe9d7d628a60b1da700590a5eff8af
+lib/nio 2.rb 372c1c69e6fe9d7d628a60b1da700590a5eff8af
+lib/nio/monitor.rb 44a5d7b32deb2172601620da142df014f3cc5533
+lib/nio/version.rb 1ed313284a96f3e974149f6a4fc4bb5f2cacff2c
+lib/nio/selector.rb c8d027b510d5eee7f124e6f3859ace60d6c84cfd
+lib/nio/monitor 2.rb 44a5d7b32deb2172601620da142df014f3cc5533
+lib/nio/version 2.rb 1ed313284a96f3e974149f6a4fc4bb5f2cacff2c
+lib/nio/bytebuffer.rb a035b244371e2d2726aa0acf5d0ecf033755e696
+lib/nio/selector 2.rb c8d027b510d5eee7f124e6f3859ace60d6c84cfd
+lib/nio/bytebuffer 2.rb a035b244371e2d2726aa0acf5d0ecf033755e696
+ext/libev/ev.c 87c748b141ca81309e28c81cbe768bdabc96e588
+ext/libev/ev 2.c 87c748b141ca81309e28c81cbe768bdabc96e588
+ext/libev/ev_poll.c 69ca8efb5cbb1ddaf6300aa9d2f12f6731568d31
+ext/libev/ev_port.c 5cdd840ba136676bd7ec93598f111ed2bee7df08
+ext/nio4r/monitor.c 76a686a2ca6099da398a68ef24458a595199d320
+ext/libev/ev_epoll.c 60e77506c1596cddb80f61570eb7cf1321f33ea3
+ext/libev/ev_win32.c ff5c2f614896a2856d36f94cfaab486cf2abb1e9
+ext/nio4r/extconf.rb 14c36fdcb4235df4c9a9e1aaed14363ff6121185
+ext/nio4r/selector.c 20291218181aa7e7719298e1409497271e8aecf7
+ext/libev/ev_kqueue.c 78d7b0a5f4a41b5b18c2456774707c85cb179406
+ext/libev/ev_poll 2.c 69ca8efb5cbb1ddaf6300aa9d2f12f6731568d31
+ext/libev/ev_port 2.c 5cdd840ba136676bd7ec93598f111ed2bee7df08
+ext/libev/ev_select.c 970b31827837f7d8f5d0200148ec8d5c153e1d19
+ext/nio4r/monitor 2.c 76a686a2ca6099da398a68ef24458a595199d320
+ext/nio4r/nio4r_ext.c a19c95d40917b2ef861938430598e0d0acc5d991
+ext/libev/ev_epoll 2.c 60e77506c1596cddb80f61570eb7cf1321f33ea3
+ext/libev/ev_iouring.c ca32841ab54abad25138c6183e901a8ce168ac42
+ext/libev/ev_win32 2.c ff5c2f614896a2856d36f94cfaab486cf2abb1e9
+ext/nio4r/bytebuffer.c 4dd982969c968aff097f6886907f374cf5168de9
+ext/nio4r/extconf 2.rb 14c36fdcb4235df4c9a9e1aaed14363ff6121185
+ext/nio4r/selector 2.c 20291218181aa7e7719298e1409497271e8aecf7
+ext/libev/ev_kqueue 2.c 78d7b0a5f4a41b5b18c2456774707c85cb179406
+ext/libev/ev_linuxaio.c 3a690b1147bc49e194dfe78b459e90dd753c6581
+ext/libev/ev_select 2.c 970b31827837f7d8f5d0200148ec8d5c153e1d19
+ext/libev/ev_iouring 2.c ca32841ab54abad25138c6183e901a8ce168ac42
+ext/nio4r/bytebuffer 2.c 4dd982969c968aff097f6886907f374cf5168de9
+ext/libev/ev_linuxaio 2.c 3a690b1147bc49e194dfe78b459e90dd753c6581

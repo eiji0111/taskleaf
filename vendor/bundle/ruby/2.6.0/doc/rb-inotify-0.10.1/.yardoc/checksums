@@ -1,0 +1,8 @@
+lib/rb-inotify.rb dbf921ccee8f6fb81ceab9ee0341a5f331a255ff
+lib/rb-inotify/event.rb 1f2c6553d2ca500d21957587e2731a014c7090c2
+lib/rb-inotify/errors.rb e437e8224f425d299053f012f2292686084af3b2
+lib/rb-inotify/native.rb af2220ebf461062298b8b883e3f38285eb759b3e
+lib/rb-inotify/version.rb e35cfbfbaa61cdd0de4ecb8d43b03ee388813de2
+lib/rb-inotify/watcher.rb 4d608f7bb9813d3d8944b3cc15f1e822451ebaa9
+lib/rb-inotify/notifier.rb 801958a2b5224fdc3629fdaaa26afff880322d89
+lib/rb-inotify/native/flags.rb cbbc79a8f69e9bf5173c18d6f177e30e6cbaa371

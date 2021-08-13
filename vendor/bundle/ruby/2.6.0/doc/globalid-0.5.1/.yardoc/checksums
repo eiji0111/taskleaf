@@ -1,0 +1,9 @@
+lib/globalid.rb dd4221622592c32d51f7e96711424fdd6ebe094c
+lib/global_id.rb b8d1cd1cd3d059a5145c6b681bcaebef43e3283a
+lib/global_id/locator.rb f8d88f7408e4ee55ed6331ee78824c485696ddb4
+lib/global_id/railtie.rb ce5d767ff4fef530692d7f8f4103de3db6eb5a50
+lib/global_id/uri/gid.rb e150ac1c9aef0c70f732fe094ecace818dc3dfd5
+lib/global_id/verifier.rb d705c71111187e1bba35ffeda664155247ee9da4
+lib/global_id/global_id.rb bbe153caaad13142912ea178a00e52caf4e8e157
+lib/global_id/identification.rb 04444e3260821161d834f17f3b8e16304b8bfcca
+lib/global_id/signed_global_id.rb bf9638ef7d5e838f34c120903dd71d6615659a53

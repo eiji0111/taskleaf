@@ -1,0 +1,12 @@
+lib/diff-lcs.rb 47138a49071e04ed00fbd358a519bd7553fa5e64
+lib/diff/lcs.rb 510a05d59e9d5db1478f8e53ebee28ae78fc0afd
+lib/diff/lcs/hunk.rb f46d0cddfc710883977ee03ce043fdb094c2d3df
+lib/diff/lcs/array.rb dccf1f55ffd7291b22ab7b6aacfd97766ac6cfa6
+lib/diff/lcs/block.rb a2b957fc19b8b0916df18b6b8e70e5e77083d6a9
+lib/diff/lcs/ldiff.rb 53c5823efce0e3c928db2003cba5ab86153ab8ff
+lib/diff/lcs/change.rb f1b6f9a4b4e7bb37207cec241e60130059f125ce
+lib/diff/lcs/string.rb 0b1fdac9527a3fdd376ce0656d12ea5345c6b204
+lib/diff/lcs/htmldiff.rb 78504cbe7c07994b7f1cd87565e4bc6b92e8ab93
+lib/diff/lcs/backports.rb 55396001581ff31cbf7e7b492ce26e96ab9e9e85
+lib/diff/lcs/callbacks.rb 5948c277968494e1205b84461d79885d6f8bfb4c
+lib/diff/lcs/internals.rb 26a47bf28958e76436d602bcdd499967d7e25c4a

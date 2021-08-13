@@ -1,0 +1,11 @@
+lib/backport.rb b26c465b796ec0e2437afb4ccef1b0c2103f8c7b
+lib/backport/client.rb 4f1f3b9fd844863667766beadc367cf975b7908b
+lib/backport/server.rb 446ad011772ed04baa839705f1e41f2c5fc5fc3a
+lib/backport/adapter.rb bb5454a1c3fb6636586a39b3c4cd74218c16c4b6
+lib/backport/machine.rb 3be5d00eb5b52d370c471f359f0ae5769a61fd9f
+lib/backport/version.rb ea6f2f1feb9f3261b269db57c55e64c4c46aed43
+lib/backport/server/base.rb 919c26ab25e845701d15c739ff77d9ee20a7c83b
+lib/backport/server/stdio.rb c719aaed50c31bc9e26aa753e768e801ac803c08
+lib/backport/server/tcpip.rb 7b1e1e14127780016c4907308199e7d6032bafb7
+lib/backport/server/interval.rb 13d5ab26aa5dc6f78c66e7ac78d3fac601511314
+lib/backport/server/connectable.rb 594f3a36274c802c9a837b62c838567bc15fdb5f

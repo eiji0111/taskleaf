@@ -1,0 +1,4 @@
+lib/turbolinks.rb 5b02dca5ef6eacd9a8b15dbe8cced246a9a7888e
+lib/turbolinks/version.rb 122b13581b207932a23ccc8d4f8546381141ca63
+lib/turbolinks/assertions.rb 525ba2be9d64afa921adf9807e177ab8970c6024
+lib/turbolinks/redirection.rb 50d45fe64f8bf4f7eea74ae253e6460e4663f31e

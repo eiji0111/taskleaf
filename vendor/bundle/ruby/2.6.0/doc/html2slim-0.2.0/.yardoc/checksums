@@ -1,0 +1,5 @@
+lib/html2slim.rb c931ecb3881944760b52744fe2be4e1361e78084
+lib/html2slim/command.rb ab6a8c505fd69ab33254c60c54690a39f83c9b83
+lib/html2slim/version.rb 728021de10e58c8d1d6895c252481bf3568031b2
+lib/html2slim/converter.rb baf9ad38f050886af7b445a52a94cb82e73b54a0
+lib/html2slim/hpricot_monkeypatches.rb 0ec3dbccd4dd1248c649064db98ab02a7a60ce64

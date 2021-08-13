@@ -1,0 +1,4 @@
+lib/mini_portile2.rb df842f289ff53d39826c5190d3e3bd9ac69fc514
+lib/mini_portile2/version.rb 8b93586e82bd3b06bf28bf89338aff90486bc983
+lib/mini_portile2/mini_portile.rb 390b9f3936b528448a3148e4ba046bc28373bbf3
+lib/mini_portile2/mini_portile_cmake.rb b4ccb10a4c25ed1e8fcb666bf3329447206843e7

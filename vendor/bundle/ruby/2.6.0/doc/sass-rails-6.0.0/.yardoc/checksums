@@ -1,0 +1,6 @@
+lib/sass-rails.rb 0877efef333bc13fad45a72fd703beaacf7d5c5e
+lib/sass/rails.rb 0877efef333bc13fad45a72fd703beaacf7d5c5e
+lib/sass/rails/logger.rb be32d4932991c6c7b3376b040376d2d240383dcc
+lib/sass/rails/railtie.rb 018efeeaa7a99ed2b4cadd0a3c10e95ef2e78b57
+lib/sass/rails/version.rb f50a852a8046aed621faa0741955d7c7ecacdca0
+lib/sass/rails/importer.rb cf7683c80516279fb24d86f5ef72f33e291c69cd
