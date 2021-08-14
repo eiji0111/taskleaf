@@ -15,6 +15,7 @@ describe 'タスク管理機能', type: :system do
     end
 
     context 'ユーザーAがログインしている時' do
+
       let(:login_user) { user_a }
 
       it 'ユーザーAが作成したタスクが表示される' do
@@ -23,6 +24,7 @@ describe 'タスク管理機能', type: :system do
     end
 
     context 'ユーザーBがログインしている時' do
+      
       let(:login_user) { user_b }
 
       it 'ユーザーAが作成したタスクが表示されない' do
